@@ -1,0 +1,21 @@
+change the url on flask_app.py and result.html with your own url site
+
+directory tree:
+home
+|
+|_urlsubdomain
+  |
+  |_mysite
+    |
+    |   flask_app.py
+    |   home.html
+    |   spam.csv
+    |   
+    |_ static
+      |
+      |   style.css
+      |
+      |_templates
+      |
+      |   result.html
+      |   
